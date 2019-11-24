@@ -4,6 +4,7 @@ public class SecondClass {
 
 	public static void main(String[] args) {
 		System.out.println("Added First Line");
+		System.out.println("Added Second Line");
 
 	}
 
