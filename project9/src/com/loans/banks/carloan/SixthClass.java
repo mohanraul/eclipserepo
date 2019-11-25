@@ -1,9 +1,9 @@
 package com.loans.banks.carloan;
 
-public class FifthClass {
+public class SixthClass {
 
 	public static void main(String[] args) {
-		System.out.println("Createdh class");
+		System.out.println("Sixth class");
 
 	}
 
